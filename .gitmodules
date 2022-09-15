@@ -1,3 +1,6 @@
 [submodule "AttachmentAPI"]
 	path = AttachmentAPI
 	url = https://github.com/codeconsult12/AttachmentAPI.git
+[submodule "Directory-Script-8-7-21"]
+	path = Directory-Script-8-7-21
+	url = https://github.com/codeconsult12/Directory-Script-8-7-21.git
