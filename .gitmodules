@@ -1,0 +1,3 @@
+[submodule "AttachmentAPI"]
+	path = AttachmentAPI
+	url = https://github.com/codeconsult12/AttachmentAPI.git
