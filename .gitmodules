@@ -52,3 +52,6 @@
 [submodule "SaghirAL"]
 	path = SaghirAL
 	url = https://github.com/codeconsult12/SaghirAL.git
+[submodule "SaghirAL1"]
+	path = SaghirAL1
+	url = https://github.com/codeconsult12/SaghirAL1.git
