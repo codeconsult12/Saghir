@@ -34,3 +34,6 @@
 [submodule "Reports"]
 	path = Reports
 	url = https://github.com/codeconsult12/Reports.git
+[submodule "repos"]
+	path = repos
+	url = https://github.com/codeconsult12/repos.git
