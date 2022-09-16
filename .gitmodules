@@ -49,3 +49,6 @@
 [submodule "SaghirVendorFieldDimension"]
 	path = SaghirVendorFieldDimension
 	url = https://github.com/codeconsult12/SaghirVendorFieldDimension.git
+[submodule "SaghirAL"]
+	path = SaghirAL
+	url = https://github.com/codeconsult12/SaghirAL.git
