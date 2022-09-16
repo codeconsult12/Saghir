@@ -16,3 +16,6 @@
 [submodule "Package-07-7-21"]
 	path = Package-07-7-21
 	url = https://github.com/codeconsult12/Package-07-7-21.git
+[submodule "POAlternate"]
+	path = POAlternate
+	url = https://github.com/codeconsult12/POAlternate.git
