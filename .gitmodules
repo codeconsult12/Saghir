@@ -28,3 +28,6 @@
 [submodule "PurchaseJournalPosting"]
 	path = PurchaseJournalPosting
 	url = https://github.com/codeconsult12/PurchaseJournalPosting.git
+[submodule "PurchaseOrder"]
+	path = PurchaseOrder
+	url = https://github.com/codeconsult12/PurchaseOrder.git
