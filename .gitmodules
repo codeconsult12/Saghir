@@ -40,3 +40,6 @@
 [submodule "ROS"]
 	path = ROS
 	url = https://github.com/codeconsult12/ROS.git
+[submodule "SyncAddin07132021"]
+	path = SyncAddin07132021
+	url = https://github.com/codeconsult12/SyncAddin07132021.git
