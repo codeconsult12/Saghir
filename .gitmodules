@@ -10,3 +10,6 @@
 [submodule "Office"]
 	path = Office
 	url = https://github.com/codeconsult12/Office.git
+[submodule "FriedmanDeerfield"]
+	path = FriedmanDeerfield
+	url = https://github.com/codeconsult12/FriedmanDeerfield.git
