@@ -7,3 +7,6 @@
 [submodule "NewMetereads1"]
 	path = NewMetereads1
 	url = https://github.com/codeconsult12/NewMetereads1.git
+[submodule "Office"]
+	path = Office
+	url = https://github.com/codeconsult12/Office.git
