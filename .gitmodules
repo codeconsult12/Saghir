@@ -46,3 +46,6 @@
 [submodule "SyncAddin-Publish"]
 	path = SyncAddin-Publish
 	url = https://github.com/codeconsult12/SyncAddin-Publish.git
+[submodule "SaghirVendorFieldDimension"]
+	path = SaghirVendorFieldDimension
+	url = https://github.com/codeconsult12/SaghirVendorFieldDimension.git
