@@ -22,3 +22,6 @@
 [submodule "Publish-05-8-21"]
 	path = Publish-05-8-21
 	url = https://github.com/codeconsult12/Publish-05-8-21.git
+[submodule "Publish-30-6-21"]
+	path = Publish-30-6-21
+	url = https://github.com/codeconsult12/Publish-30-6-21.git
