@@ -61,3 +61,6 @@
 [submodule "SaghirAL3"]
 	path = SaghirAL3
 	url = https://github.com/codeconsult12/SaghirAL3.git
+[submodule "SaghirAl4"]
+	path = SaghirAl4
+	url = https://github.com/codeconsult12/SaghirAl4.git
